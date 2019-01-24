@@ -8,7 +8,7 @@ import (
 	. "net/http"
 	"testing"
 
-	"github.com/fjl/go-couchdb"
+	"vsys/go-couchdb"
 )
 
 // TestChangesFeedPollSeqString tests the polled changes feed with a CouchDB2-style

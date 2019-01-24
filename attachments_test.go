@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
-	"github.com/fjl/go-couchdb"
+	"vsys/go-couchdb"
 	"io"
 	"io/ioutil"
 	. "net/http"

@@ -6,7 +6,7 @@ import (
 	. "net/http"
 	"testing"
 
-	"github.com/fjl/go-couchdb"
+	"vsys/go-couchdb"
 )
 
 func TestDBUpdatesFeed(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/fjl/go-couchdb"
+	"vsys/go-couchdb"
 )
 
 type roundTripperFunc func(*Request) (*Response, error)
