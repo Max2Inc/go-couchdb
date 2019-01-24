@@ -1,3 +1,15 @@
+# VEEA Systems
+
+This is a fork of https://github.com/fjl/go-couchdb.
+
+The original project does not support CouchDB 2.x and it
+appears to have been abandoned - a PR fixing the CouchDB
+2.x compatibility has been open for more than two years.
+
+If the upstream maintainer ever merges the PR, this repo
+can be deleted and we can return to using the upstream
+repository directly.
+
 # What's this?
 
 go-couchdb is yet another CouchDB client written in Go.
